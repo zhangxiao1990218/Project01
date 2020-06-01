@@ -1,0 +1,1201 @@
+<html>
+ <head></head>
+ <body>
+  <div class="search-details-wrapper"> 
+   <div class="p-list"> 
+    <div class="mp-article-list"> 
+     <div class="table-thead  s-thead"> 
+      <table class="table"> 
+       <colgroup> 
+        <col width="135"> 
+        <col> 
+        <col width="120"> 
+        <col width="100"> 
+        <col width="100"> 
+        <col width="186"> 
+       </colgroup> 
+       <thead> 
+        <tr> 
+         <th> 传播指数 <a href="" data-toggle="tooltip" data-placement="top" data-original-title="传播指数是系统通过抖音号的粉丝数、视频点赞数、评论数、转发数、音乐使用数等分析得出的综合评分" style="margin-top:8px;"> <i class="fa fa-exclamation-circle fa-colorgray"></i> </a> </th> 
+         <th>视频内容</th> 
+         <th>播主</th> 
+         <th>点赞数</th> 
+         <th>评论数</th> 
+         <th class="text-center">操作</th> 
+        </tr> 
+       </thead> 
+      </table> 
+     </div> 
+     <table class="table"> 
+      <colgroup> 
+       <col width="135"> 
+       <col> 
+       <col width="120"> 
+       <col width="100"> 
+       <col width="100"> 
+       <col width="186"> 
+      </colgroup> 
+      <tbody class="js-awemelist" id="js-awemelist"> 
+       <tr data-id="7834366" data-awemeid="6818936482347240717" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">99.1</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="7834366" data-awemeid="6818936482347240717" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/9a6af33d222944da926b632728eb6514~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="7834366" data-awemeid="6818936482347240717" data-active="detail"> 美国为什么几十万人感染？看完这个视频你就明白了！ </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="小伙">小伙</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="懵逼">懵逼</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="感染">感染</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="小伙子">小伙子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="笑容">笑容</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="口罩">口罩</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="美国">美国</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="凝固">凝固</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="心态">心态</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="一脸">一脸</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>11秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=7834366&amp;timestamp=1587712958&amp;signature=6b128be9e20f39de8ac6843c9b568ff0" target="_blank" class="">光新闻</a> 
+           </div> 
+           <div class="item-sub-title">
+            15 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>528.5w</td> 
+        <td>34.4w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="7834366" data-awemeid="6818936482347240717" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="7834366" data-awemeid="6818936482347240717" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818936482347240717/?mid=6818936444783512334" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1012200588" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="7353395" data-awemeid="6818937961439169799" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">98.7</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="7353395" data-awemeid="6818937961439169799" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/b9735ab905c84a87bae8a4526f520278~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="7353395" data-awemeid="6818937961439169799" data-active="detail"> 妈妈：存了钱长大了干啥？孩子：找娘们！😂#趣闻 @抖音小助手 #笑哭 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="孩子">孩子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="长大">长大</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="前途">前途</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="毛病">毛病</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="存钱">存钱</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="儿子">儿子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="出息">出息</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="笑死">笑死</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="罗志祥">罗志祥</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="初心">初心</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>29秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=7353395&amp;timestamp=1587712958&amp;signature=148524505894d570685fe9a3542fd191" target="_blank" class="">安徽交通广播</a> 
+           </div> 
+           <div class="item-sub-title">
+            15 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>87.2w</td> 
+        <td>9.5w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="7353395" data-awemeid="6818937961439169799" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="7353395" data-awemeid="6818937961439169799" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818937961439169799/?mid=6818937905449634573" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1011930848" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="7573898" data-awemeid="6818914557638053135" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">98.5</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="7573898" data-awemeid="6818914557638053135" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/9e0c9c014a9b495b82a5b2fb17ff7253~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="7573898" data-awemeid="6818914557638053135" data-active="detail"> 我教你们如何#体面 的给自己找台阶下 哈哈哈 听说你们觉得我有胡子比较帅？胡子来了 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="华哥">华哥</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="答对">答对</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="色盲">色盲</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="白色">白色</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="男人">男人</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="台阶">台阶</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="老婆">老婆</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="女人">女人</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="搞笑">搞笑</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="卧底">卧底</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>29秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=7573898&amp;timestamp=1587712958&amp;signature=4c2f5c9613eab291709915c383c38b06" target="_blank" class="">骆达华</a> 
+           </div> 
+           <div class="item-sub-title">
+            17 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>82.3w</td> 
+        <td>3.8w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="7573898" data-awemeid="6818914557638053135" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="7573898" data-awemeid="6818914557638053135" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818914557638053135/?mid=6818914551753575181" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010729371" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="8956293" data-awemeid="6818845573865639168" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">98.3</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="8956293" data-awemeid="6818845573865639168" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/0bb6f1272aeb4746a31f315576dea682~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="8956293" data-awemeid="6818845573865639168" data-active="detail"> 如何发出虞书欣那种“哇唔”？#铲屎官和他的主人 #猫 #虞书欣 @抖音星探家 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="屁股">屁股</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="坐死">坐死</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="卧槽">卧槽</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="同学">同学</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="宝贝">宝贝</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="啊啊啊">啊啊啊</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="小熊">小熊</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="好像">好像</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="猫咪">猫咪</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="虞书欣">虞书欣</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>4秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=8956293&amp;timestamp=1587712958&amp;signature=4653a2b267c96c6275d7032702e93b5d" target="_blank" class="">吃不饱的张飞</a> 
+           </div> 
+           <div class="item-sub-title">
+            21 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>104.5w</td> 
+        <td>6.7w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="8956293" data-awemeid="6818845573865639168" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="8956293" data-awemeid="6818845573865639168" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818845573865639168/?mid=6808059360523307784" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010914933" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="7423775" data-awemeid="6818820711864421635" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">98.3</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="7423775" data-awemeid="6818820711864421635" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/e7b06046156e41988373c86943531994_1587630457~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="7423775" data-awemeid="6818820711864421635" data-active="detail"> 射击训练时，两只小狗突然跑来...兵哥哥感动不敢动~最后一幕暖心了~ #萌宠 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="双眼皮">双眼皮</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="兵哥哥">兵哥哥</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="狗狗">狗狗</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="小狗">小狗</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="小狗狗">小狗狗</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="初吻">初吻</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="狗子">狗子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="小奶">小奶</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="羡慕">羡慕</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="喜欢">喜欢</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>34秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=7423775&amp;timestamp=1587712958&amp;signature=94ffe19a4181748fafca27bacb389fef" target="_blank" class="">海峡网</a> 
+           </div> 
+           <div class="item-sub-title">
+            23 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>95.9w</td> 
+        <td>3.7w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="7423775" data-awemeid="6818820711864421635" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="7423775" data-awemeid="6818820711864421635" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818820711864421635/?mid=6818820875190684430" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010523964" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="6270614" data-awemeid="6818823091330845967" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">98.1</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="6270614" data-awemeid="6818823091330845967" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/ca63ef734b4c408580350b72998a28fc~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="6270614" data-awemeid="6818823091330845967" data-active="detail"> 真的是好久不见啊！！#王崇墨李茉晗 是你们牵挂的人吗？🤭#港龙赛事 #拉丁舞 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="好看">好看</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="喜欢">喜欢</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="口罩">口罩</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="女孩">女孩</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="衣服">衣服</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="气质">气质</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="拉丁">拉丁</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="感觉">感觉</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="女生">女生</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="头发">头发</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>16秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=6270614&amp;timestamp=1587712958&amp;signature=7df6266af07825c12e5659285392a917" target="_blank" class="">港龙赛事</a> 
+           </div> 
+           <div class="item-sub-title">
+            23 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>63.8w</td> 
+        <td>1.6w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="6270614" data-awemeid="6818823091330845967" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="6270614" data-awemeid="6818823091330845967" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818823091330845967/?mid=6818823082225863431" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010626731" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="7936092" data-awemeid="6818878346609380612" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">98.1</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="7936092" data-awemeid="6818878346609380612" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/5363cf3af96b476a99bb61fb7ccf559f~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="7936092" data-awemeid="6818878346609380612" data-active="detail"> 我猜你没见过这些萌萌的小东西 #宝藏女孩 #可爱 #萌 #我要上热门 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="喜欢">喜欢</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="东西">东西</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="想要">想要</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="精致">精致</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="生活">生活</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="小东西">小东西</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="链接">链接</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="安排">安排</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="结婚">结婚</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="不想">不想</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>1分1秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=7936092&amp;timestamp=1587712958&amp;signature=aebd07a52628d261920ddafd1c2d8ea0" target="_blank" class="">之聪</a> 
+           </div> 
+           <div class="item-sub-title">
+            19 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>83.9w</td> 
+        <td>4.8w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="7936092" data-awemeid="6818878346609380612" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="7936092" data-awemeid="6818878346609380612" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818878346609380612/?mid=6818838025729346317" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010650877" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="8444129" data-awemeid="6818921464658513152" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">98.0</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="8444129" data-awemeid="6818921464658513152" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/0175d3c1cd9b4a6f9962abf07b604c8d~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="8444129" data-awemeid="6818921464658513152" data-active="detail"> #女孩子 一定要学点#功夫 ，不会被#欺负 ！ </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="跆拳道">跆拳道</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="女儿">女儿</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="闺女">闺女</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="漂亮">漂亮</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="姑娘">姑娘</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="散打">散打</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="欺负">欺负</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="霸气">霸气</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="保护">保护</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="厉害">厉害</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>11秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=8444129&amp;timestamp=1587712958&amp;signature=f705292f477d4a4bdd6dc4b4e41bcd73" target="_blank" class="">焦作广播电视台</a> 
+           </div> 
+           <div class="item-sub-title">
+            16 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>224.5w</td> 
+        <td>18.1w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="8444129" data-awemeid="6818921464658513152" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="8444129" data-awemeid="6818921464658513152" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818921464658513152/?mid=6818921472107973383" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010805155" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="6319476" data-awemeid="6818811635122048268" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">97.7</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="6319476" data-awemeid="6818811635122048268" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/507925dd6bb64292b5ef2460b362de77~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="6319476" data-awemeid="6818811635122048268" data-active="detail"> 没录到原声 笑死我了😂 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="卧槽">卧槽</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="牛逼">牛逼</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="小孩">小孩</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="笑死">笑死</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="学会">学会</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="试试">试试</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="牛批">牛批</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="油桶">油桶</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="学废">学废</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="月亮">月亮</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>42秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=6319476&amp;timestamp=1587712958&amp;signature=1751f86eaf1d9600eb4a7f0eb27f52ae" target="_blank" class="">苏晨林</a> 
+           </div> 
+           <div class="item-sub-title">
+            24 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>121.2w</td> 
+        <td>6.7w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="6319476" data-awemeid="6818811635122048268" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="6319476" data-awemeid="6818811635122048268" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818811635122048268/?mid=6818811804706409230" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010768469" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="8178071" data-awemeid="6818842015443340559" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">97.5</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="8178071" data-awemeid="6818842015443340559" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/c1a6686e6d1c43ddaceee7b77ba66738~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="8178071" data-awemeid="6818842015443340559" data-active="detail"> 减脂必备的西兰花，99%的人都洗错了！#生活小妙招 #果蔬清洗 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="虫卵">虫卵</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="西兰花">西兰花</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="一家人">一家人</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="幸福">幸福</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="蛋白质">蛋白质</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="桑葚">桑葚</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="不吃">不吃</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="虫子">虫子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="蓝花">蓝花</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="果蝇">果蝇</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>27秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=8178071&amp;timestamp=1587712958&amp;signature=17c2f89a830dfcb23d5cf25c696397ff" target="_blank" class="">全能小阿琦</a> 
+           </div> 
+           <div class="item-sub-title">
+            22 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>41.9w</td> 
+        <td>3227</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="8178071" data-awemeid="6818842015443340559" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="8178071" data-awemeid="6818842015443340559" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818842015443340559/?mid=6818797468168293124" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1011025692" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="7346866" data-awemeid="6818920167905447181" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">97.3</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="7346866" data-awemeid="6818920167905447181" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/bec20b69e9a74807af51e1bea993358f~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="7346866" data-awemeid="6818920167905447181" data-active="detail"> 这孩子是真感动到我了#感动 #车祸现场 #母子情深 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="男子汉">男子汉</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="孩子">孩子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="马路">马路</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="行人">行人</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="斑马线">斑马线</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="妈妈">妈妈</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="礼让">礼让</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="司机">司机</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="儿子">儿子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="担当">担当</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>13秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=7346866&amp;timestamp=1587712958&amp;signature=d64a64876bb47c5da47c75b4fa80d6c4" target="_blank" class="">川报观察</a> 
+           </div> 
+           <div class="item-sub-title">
+            16 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>44.5w</td> 
+        <td>2.9w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="7346866" data-awemeid="6818920167905447181" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="7346866" data-awemeid="6818920167905447181" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818920167905447181/?mid=6818920163028110094" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010749644" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="8143685" data-awemeid="6818836955841809678" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">97.2</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="8143685" data-awemeid="6818836955841809678" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/4daf841e971e46f78d1cc02c883f6f2f~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="8143685" data-awemeid="6818836955841809678" data-active="detail"> 92岁奶奶骑三轮带30岁孙子遛弯引围观，逢人炫耀：我看孩子呢！ </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="幸福">幸福</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="奶奶">奶奶</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="羡慕">羡慕</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="身体">身体</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="孙子">孙子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="孩子">孩子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="老人">老人</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="真幸福">真幸福</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="老奶奶">老奶奶</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="炫耀">炫耀</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>14秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=8143685&amp;timestamp=1587712958&amp;signature=0f4092f4fb0068fac5487a9f1d0bd75e" target="_blank" class="">冀看点</a> 
+           </div> 
+           <div class="item-sub-title">
+            22 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>172.6w</td> 
+        <td>6.0w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="8143685" data-awemeid="6818836955841809678" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="8143685" data-awemeid="6818836955841809678" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818836955841809678/?mid=6818792406134360846" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010822152" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="7922161" data-awemeid="6818807862001683724" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">95.7</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="7922161" data-awemeid="6818807862001683724" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/b722fcc97e3a4b8f9d7b4d8a15dbe7ad~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="7922161" data-awemeid="6818807862001683724" data-active="detail"> 央视网评：不想喝粥才是传统，不喝粥才是爱国。#张文宏 #爱国 #传统文化 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="喝粥">喝粥</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="喜欢">喜欢</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="鸡蛋">鸡蛋</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="营养">营养</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="牛奶">牛奶</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="白粥">白粥</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="早餐">早餐</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="蛋白质">蛋白质</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="不好">不好</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="舒服">舒服</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>9秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=7922161&amp;timestamp=1587712958&amp;signature=308b5b2df0fcff88f0d045a05b21a645" target="_blank" class="">张家口新闻传媒集团</a> 
+           </div> 
+           <div class="item-sub-title">
+            24 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>41.4w</td> 
+        <td>8.0w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="7922161" data-awemeid="6818807862001683724" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="7922161" data-awemeid="6818807862001683724" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818807862001683724/?mid=6818763504922053390" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1011017398" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="8955993" data-awemeid="6818852387604811020" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">95.5</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="8955993" data-awemeid="6818852387604811020" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/024dc77d09394560a104a0e0afb75c0f~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="8955993" data-awemeid="6818852387604811020" data-active="detail"> 𝙔𝙤𝙪 𝙖𝙧𝙚 𝙜𝙤𝙤𝙙 𝙚𝙣𝙤𝙪𝙜𝙝 ｜你很好，你真的很好。 <i class="icon-buy" data-toggle="tooltip" data-placement="top" data-original-title="已开通购物车"></i> </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="舒服">舒服</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="好看">好看</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="字体">字体</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="good">good</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="enough">enough</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="看着">看着</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="are">are</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="德芙">德芙</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="丝滑">丝滑</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="足够">足够</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>12秒 
+            <span class="goods"> 关联商品 ：<em><a data-id="8955993" data-awemeid="6818852387604811020" data-active="goods" class="js-open-aweme-pop">同款字帖</a></em> </span> 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=8955993&amp;timestamp=1587712958&amp;signature=f2543ab2729a974085ac020199c5b96f" target="_blank" class="">英小文</a> 
+           </div> 
+           <div class="item-sub-title">
+            21 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>107.0w</td> 
+        <td>6.2w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="8955993" data-awemeid="6818852387604811020" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="8955993" data-awemeid="6818852387604811020" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818852387604811020/?mid=6790971620946905864" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1011663717" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="7438865" data-awemeid="6818838134470577416" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">95.1</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="7438865" data-awemeid="6818838134470577416" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/b862ed6cc7d741dd894492663807f849~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="7438865" data-awemeid="6818838134470577416" data-active="detail"> 手势我们是专业的#保定交警 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="手势">手势</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="交警">交警</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="停车">停车</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="看不懂">看不懂</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="靠边">靠边</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="驾照">驾照</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="直行">直行</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="太快">太快</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="科目">科目</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="指挥">指挥</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>13秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=7438865&amp;timestamp=1587712958&amp;signature=dfb294298c1a0c54e8d31829b501b014" target="_blank" class="">保定市交警</a> 
+           </div> 
+           <div class="item-sub-title">
+            22 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>49.3w</td> 
+        <td>134</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="7438865" data-awemeid="6818838134470577416" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="7438865" data-awemeid="6818838134470577416" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818838134470577416/?mid=6818692509356100359" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010765849" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="8541601" data-awemeid="6818842496152456461" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">95.0</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="8541601" data-awemeid="6818842496152456461" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/5e8a496b9d4044abb1c8f8b06da59535_1587635493~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="8541601" data-awemeid="6818842496152456461" data-active="detail"> 搞笑我的世界：如何防止小学生拆你的家？#搞笑 #我的世界 #全民dou阅读 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="熊孩子">熊孩子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="习惯">习惯</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="小学生">小学生</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="随手关门">随手关门</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="TNT">TNT</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="箱子">箱子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="东西">东西</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="把门">把门</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="关门">关门</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="喜欢">喜欢</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>55秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=8541601&amp;timestamp=1587712958&amp;signature=3c8e0cd03a8326fa727afc37b8a68aeb" target="_blank" class="">老玩家小熊</a> 
+           </div> 
+           <div class="item-sub-title">
+            22 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>28.2w</td> 
+        <td>4302</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="8541601" data-awemeid="6818842496152456461" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="8541601" data-awemeid="6818842496152456461" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818842496152456461/?mid=6818842507896654606" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1011694371" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="7127175" data-awemeid="6818894736833678607" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">94.5</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="7127175" data-awemeid="6818894736833678607" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/4600e543885140359b2acca053665f47~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="7127175" data-awemeid="6818894736833678607" data-active="detail"> 这可能是人类第一次拍到麻雀自然死亡，它在生命的最后时刻…#珍爱生命 #麻雀 @DOU+小助手 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="生命">生命</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="世界">世界</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="痛苦">痛苦</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="死亡">死亡</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="珍惜">珍惜</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="麻雀">麻雀</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="感觉">感觉</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="敬畏">敬畏</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="感谢">感谢</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="一生">一生</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>58秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=7127175&amp;timestamp=1587712958&amp;signature=62d9db1fba918e5ab821737f7eb219d6" target="_blank" class="">淮北市广播电视台</a> 
+           </div> 
+           <div class="item-sub-title">
+            18 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>22.9w</td> 
+        <td>2.0w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="7127175" data-awemeid="6818894736833678607" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="7127175" data-awemeid="6818894736833678607" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818894736833678607/?mid=6818894749798746887" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1011329202" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="9402856" data-awemeid="6818845905131785487" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">94.5</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="9402856" data-awemeid="6818845905131785487" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/cc2915d7ebd64de19b667e88980ea033~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="9402856" data-awemeid="6818845905131785487" data-active="detail"> 开宝马的乞丐今天不开心#合拍乞丐都开宝马啦 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="乞丐">乞丐</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="宝马">宝马</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="歌名">歌名</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="陌生人">陌生人</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="坎坷">坎坷</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="取关">取关</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="气人">气人</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="开心">开心</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="抖音">抖音</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="视频">视频</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>12秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=9402856&amp;timestamp=1587712958&amp;signature=7f4804adc2e1df17dc6ce82c1cea23d1" target="_blank" class="">农村大帅</a> 
+           </div> 
+           <div class="item-sub-title">
+            21 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>24.3w</td> 
+        <td>1.4w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="9402856" data-awemeid="6818845905131785487" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="9402856" data-awemeid="6818845905131785487" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818845905131785487/?mid=6818845909695269639" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010884207" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="9582558" data-awemeid="6818836440554786048" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">94.4</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="9582558" data-awemeid="6818836440554786048" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/6d4a5c923a0c4749918aedb455df14e8~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="9582558" data-awemeid="6818836440554786048" data-active="detail"> 喷饭第1集 | 被高科技逼疯的暴躁大哥在线尝味#不科学 #爆笑 #搞笑 @抖音小助手 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="舌头">舌头</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="笑死">笑死</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="暴躁">暴躁</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="洗手液">洗手液</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="难受">难受</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="机器">机器</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="被窝">被窝</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="老子">老子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="好吃">好吃</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="卧槽">卧槽</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>26秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=9582558&amp;timestamp=1587712958&amp;signature=6c8901b14ccc4a30233afad939270306" target="_blank" class="">爆笑基地</a> 
+           </div> 
+           <div class="item-sub-title">
+            22 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>45.3w</td> 
+        <td>1.4w</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="9582558" data-awemeid="6818836440554786048" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="9582558" data-awemeid="6818836440554786048" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818836440554786048/?mid=6818836442342001422" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010689671" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <tr data-id="6296536" data-awemeid="6818883157371129102" class="js-slider-aweme"> 
+        <td> <span class="risk-index         label-color1
+">94.2</span> </td> 
+        <td> 
+         <div class="media-list"> 
+          <div class="item-media"> 
+           <a href="" class="js-open-aweme-pop" data-id="6296536" data-awemeid="6818883157371129102" data-active="detail"> <img src="http://img2.feigua.cn/img/tos-cn-p-0015/70a6b02639194578bdec3d41ef142acd_1587644960~c5_300x400.jpeg?from=2563711402_large-thumb"> </a> 
+          </div> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="" class="js-open-aweme-pop" data-id="6296536" data-awemeid="6818883157371129102" data-active="detail"> 一粒黄豆砸死人，高空抛物快住手！！！#高空抛物 #棉被 </a> 
+           </div> 
+           <div class="item-tag clearfix"> 
+            <label>视频热词：</label> 
+            <ul> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="判刑">判刑</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="抛物">抛物</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="杀人">杀人</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="被子">被子</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="严惩">严惩</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="坠物">坠物</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="法律">法律</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="危险">危险</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="感谢">感谢</a></li> 
+             <li><a href="" class="js-hotKeyWord " data-hotkw="吵架">吵架</a></li> 
+            </ul> 
+           </div> 
+           <div class="item-times"> 
+            <lable>
+             视频时长：
+            </lable>25秒 
+           </div> 
+          </div> 
+         </div> </td> 
+        <td> 
+         <div class=""> 
+          <div class="item-inner"> 
+           <div class="item-title"> 
+            <a href="https://dy.feigua.cn/Aweme/Search?keyword=&amp;tag=&amp;likes=0&amp;hours=24&amp;duration=0&amp;gender=0&amp;age=0&amp;province=0&amp;city=0&amp;sort=0&amp;ispromotions=0&amp;ismodule=0&amp;page=1#/Blogger/Detail?id=6296536&amp;timestamp=1587712958&amp;signature=712e1d0070b0dd47defcff10dea27bcd" target="_blank" class="">政法频道</a> 
+           </div> 
+           <div class="item-sub-title">
+            19 小时前
+           </div> 
+          </div> 
+         </div> </td> 
+        <td>112.4w</td> 
+        <td>168</td> 
+        <td> 
+         <div class="mp-article-source"> 
+          <a href="" data-id="6296536" data-awemeid="6818883157371129102" data-active="detail" class="source-details js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="指数分析"> <i class="icon-details"></i> </a> 
+          <a href="" data-id="6296536" data-awemeid="6818883157371129102" data-active="fans" class="fans-analysis js-open-aweme-pop" data-toggle="tooltip" data-placement="top" title="视频观众分析"><i class="icon-fans" aria-hidden="true"></i></a> 
+          <a href="https://www.douyin.com/share/video/6818883157371129102/?mid=6818883155509496583" target="_blank" class="source-play" data-toggle="tooltip" data-placement="top" title="播放"> <i class="icon-play" aria-hidden="true"></i> </a> 
+          <a href="" class="source-collection js-list-sync-aweme" data-id="1010715571" data-toggle="tooltip" data-placement="top" title="收藏"> <i class="icon-star1"></i> </a> 
+         </div> </td> 
+       </tr> 
+       <script>
+    $(".js-hotKeyWord").unbind('click').click(function () {
+        if ($("input[name='request-ing']").val().trim() === '1')
+            return;
+        var hotKeyWord = $(this).data("hotkw").trim();
+        $("#txtKeyword").val(hotKeyWord);
+        $("#js-clear-keyword").show();
+        var url = getUrl() + "&hotKeyWord=" + hotKeyWord;
+        $.ajax({
+            url: url,
+            beforeSend: function () {
+                $('#js-search-loading').show();
+                $('#js-search-result').hide();
+                $('#js-pager-limit').hide();
+                $('#js-pager-end').hide();
+                $("input[name='request-ing']").val(1);
+                $("input[name='request-ing-limit']").val(0);
+            },
+            success: function (data) {
+                $('#js-search-loading').hide();
+                $('#js-search-result').html(data);
+                $('#js-search-result').show();
+                $("input[name='pageIndex']").val(1);
+                $("input[name='request-ing']").val(0);
+                $("#promotions").on('ifChanged', function () {
+                    search();
+                });
+            }
+        });
+    })
+</script> 
+      </tbody> 
+     </table> 
+     <div class="page-load" id="js-load-more-loading" style="display:none;">
+      <i class="fa fa-spinner fa-spin"></i>正在加载
+     </div> 
+     <div class="page-load" id="js-pager-end" style="display:none;">
+      没有更多了~
+     </div> 
+     <div id="js-pager-limit"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <input type="hidden" id="hotKeyWord"> 
+  <script type="text/javascript">
+    $('[data-toggle="tooltip"]').tooltip();
+    $(function () {
+        var fnAnimate = function () {
+            if ($('.v-main').scrollTop() > 340) {
+
+                $('.table-thead').addClass('theadScroll');
+            }
+            else {
+                $('.table-thead').removeClass('theadScroll');
+            }
+        };
+        $('.v-main').scroll(fnAnimate);
+        fnAnimate();
+    });
+</script>
+ </body>
+</html>
