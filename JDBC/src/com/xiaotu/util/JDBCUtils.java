@@ -1,10 +1,7 @@
 package com.xiaotu.util;
 
 import java.io.InputStream;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.Properties;
 
 /**
@@ -64,5 +61,35 @@ public class JDBCUtils {
         }
     }
 
+
+    /**
+     *
+     * @Description 关闭资源操作
+     * @author shkstart
+     * @date 上午10:21:15
+     * @param conn
+     * @param ps
+     * @param rs
+     */
+    public static void closeResource(Connection conn, Statement ps, ResultSet rs){
+        try {
+            if(ps != null)
+                ps.close();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        try {
+            if(conn != null)
+                conn.close();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        try {
+            if(rs != null)
+                rs.close();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
 
 }
